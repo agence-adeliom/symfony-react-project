@@ -1,4 +1,5 @@
 easy_admin_user:
+  title: symfony-react-project
   user_class: App\Entity\EasyAdmin\User
   user_repository: App\Repository\EasyAdmin\UserRepository
   reset_password_class: App\Entity\EasyAdmin\ResetPasswordRequest
